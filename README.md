@@ -1,5 +1,5 @@
 # Personal-Portfolio
-Welcome to my personal portfolio repository! This project showcases my skills and projects in web development using HTML, CSS, and JavaScript. Feel free to explore and get to kn
+Welcome to my personal portfolio repository! This project showcases my skills and projects in web development using HTML, CSS, and JavaScript. Feel free to explore and get to know
 
 https://github.com/Smruttii24/Personal-Portfolio/assets/147795649/93c2da5f-c3af-47f3-a33c-8250b8b9b8e9
 
